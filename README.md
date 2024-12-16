@@ -1,5 +1,7 @@
 # nearby_app
 
+[FIGMA](https://www.figma.com/design/I3l0GSbvLl9huOyuyQSYWl/NLW-Pocket-Mobile-%E2%80%A2-Nearby-(Community)?node-id=3-376&t=Mi3UW8ZVg76UIdni-1)
+
 <img width="871" alt="Captura de Tela 2024-12-16 às 18 52 44" src="https://github.com/user-attachments/assets/a7510801-7462-4788-ad6d-d01b4a3f2b47" />
 
 ## Como a aplicação funciona?
